@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectorVRProject", "Assembly-CSharp.csproj", "{FBC0BF52-8FDF-7594-4136-406B8EE94E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectorVRProject", "Assembly-CSharp-Editor.csproj", "{30FDB60E-E5FF-2D68-7D61-F3DD6BDDDDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC0BF52-8FDF-7594-4136-406B8EE94E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC0BF52-8FDF-7594-4136-406B8EE94E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC0BF52-8FDF-7594-4136-406B8EE94E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC0BF52-8FDF-7594-4136-406B8EE94E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FDB60E-E5FF-2D68-7D61-F3DD6BDDDDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FDB60E-E5FF-2D68-7D61-F3DD6BDDDDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FDB60E-E5FF-2D68-7D61-F3DD6BDDDDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FDB60E-E5FF-2D68-7D61-F3DD6BDDDDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
